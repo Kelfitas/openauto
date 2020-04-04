@@ -1,5 +1,7 @@
 libboost-all-dev
 libusb-1.0.0-dev
+librtaudio-dev
+libblkid-dev
 libssl-dev
 cmake
 libprotobuf-dev
